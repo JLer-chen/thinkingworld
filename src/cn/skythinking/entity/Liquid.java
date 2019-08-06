@@ -28,6 +28,7 @@ public class Liquid {
         this.x = x;
         this.y = y;
         this.color = color;
+
     }
 
 
